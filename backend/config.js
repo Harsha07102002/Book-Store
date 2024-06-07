@@ -1,3 +1,3 @@
 export const PORT = 5500
 
-export const mongoDBURL = `mongodb://127.0.0.1:27017/book-mern`
+export const mongoDBURL = `mongodb+srv://harsha_9966:<password>@cluster0.ujom87d.mongodb.net//`
