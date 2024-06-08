@@ -61,8 +61,7 @@ npm install
 
 ## Running the Application
 
-To run both the frontend and backend concurrently, navigate to the root directory and use the following command:
-
+To run both the frontend and backend concurrently, navigate to the both the folders in seperate terminals and run this command.
 ```bash
 npm run dev
 ```
