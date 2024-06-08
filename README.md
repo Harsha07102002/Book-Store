@@ -1,8 +1,4 @@
-Sure! Below is a sample README file for your bookstore project using the MERN stack:
-
----
-
-# Bookstore Project
+# Bookstore 
 
 Welcome to the Bookstore project! This application is built using the MERN stack (MongoDB, Express, React, Node.js) and provides a platform to browse, search, and purchase books online.
 
