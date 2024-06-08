@@ -8,9 +8,6 @@ Welcome to the Bookstore project! This application is built using the MERN stack
 - [Technologies](#technologies)
 - [Installation](#installation)
 - [Running the Application](#running-the-application)
-- [Folder Structure](#folder-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
